@@ -1,0 +1,22 @@
+# Ignore LTS files.
+/*
+
+# Add Glass Edibles files.
+!.gitignore
+!README.md
+
+!src
+
+!src/minecraft
+src/minecraft/hmi
+src/minecraft/net/minecraft/client
+src/minecraft/net/minecraft/isom
+!src/minecraft/glassedibles
+src/minecraft/net/minecraft/src/**
+!src/minecraft/net/minecraft/src/mod_GlassEdibles.java
+
+!src/minecraft_server
+src/minecraft_server/net/minecraft/server
+!src/minecraft_server/glassedibles
+src/minecraft_server/net/minecraft/src/**
+!src/minecraft_server/net/minecraft/src/mod_GlassEdibles.java
