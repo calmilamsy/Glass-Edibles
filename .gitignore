@@ -6,6 +6,10 @@
 !README.md
 
 !src
+!textures
+textures/hmi
+textures/items.png
+textures/terrain.png
 
 !src/minecraft
 src/minecraft/hmi
